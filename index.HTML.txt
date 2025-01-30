@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Servicios Migratorios</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Servicios Migratorios</h1>
+        <p>"Hazlo fácil, hazlo con nosotros"</p>
+    </header>
+    <main>
+        <section id="direccion">
+            <h2>Dirección de Oficina</h2>
+            <p>11420 SW 32nd ST<br>
+               Miami, Florida 33165</p>
+            <p><strong>Teléfonos:</strong></p>
+            <p>786 931 9687<br>
+               786 982 3373</p>
+        </section>
+
+        <section id="mision">
+            <h2>Misión</h2>
+            <p>Nuestra misión es proporcionar asistencia personalizada en la elaboración y gestión de documentos necesarios para trámites migratorios. Facilitamos a nuestros clientes el proceso tras consultar con un especialista legal. Aunque no somos abogados ni especialistas legales, nuestro compromiso es ayudarlos a preparar todos los documentos con precisión, asegurando que cumplan con los requisitos establecidos.</p>
+        </section>
+
+        <section id="vision">
+            <h2>Visión</h2>
+            <p>Ser una empresa de referencia en la preparación y gestión de documentación para trámites migratorios, destacándonos por nuestra fiabilidad, rapidez y atención al detalle. Queremos ser la opción preferida de quienes ya han recibido orientación legal y buscan apoyo profesional para la correcta elaboración de sus documentos.</p>
+        </section>
+
+        <section id="servicios">
+            <h2>Servicios que Ofrecemos</h2>
+            <ul>
+                <li>Solicitud de Residencia Permanente</li>
+                <li>Renovación de Residencia Permanente</li>
+                <li>Solicitud de Permiso de Trabajo</li>
+                <li>Renovación de Permiso de Trabajo</li>
+                <li>Solicitud de T.P.S. (Temporary Protected Status)</li>
+                <li>Re-registración o renovación de T.P.S.</li>
+                <li>Reunificación familiar</li>
+                <li>Solicitud de asilo</li>
+                <li>Cambios de dirección y actualizaciones en USCIS</li>
+                <li>Solicitud de F.O.I.A. (Freedom of Information Act)</li>
+                <li>Creación de compañías, enmiendas y actualizaciones</li>
+                <li>Obtención de Reporte BOI (Beneficial Ownership Information Report)</li>
+                <li>Traducción y notarización de documentos</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>© 2025 Servicios Migratorios. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
